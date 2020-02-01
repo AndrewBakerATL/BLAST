@@ -1,3 +1,5 @@
+(Deprecated | Replaced By Kengo)
+
 # PRIMEITE
 A spiritual successor to DeltaBot, using the Rewrite libraries.
 
