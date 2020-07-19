@@ -1,11 +1,5 @@
 # BlastApp
 
-### Blast Uses:
-* **Lavalink**
-	* Streaming API
-* **WaveLink**
-	* Local Client
-
 ### What is it
 An all-purpose server management utility to cultivate well-built and structured communities through the use of the Discord platform.
 
@@ -26,3 +20,25 @@ An all-purpose server management utility to cultivate well-built and structured 
 * Reaction Images
 * Reaction GIFS
 * Much More
+
+## Included Technologies
+
+### Blast Uses:
+* **Lavalink**
+	* Streaming API
+* **WaveLink**
+	* Local Client
+
+## Early Registration Types
+* **Development**
+	* Developer
+	* Designer
+* **Discord**
+	* Admin
+	* Moderator
+	* Tester
+	
+## Release States
+* **Pre-Release**
+	* Alpha
+	* Beta
