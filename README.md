@@ -35,7 +35,7 @@ An all-purpose server management utility to cultivate well-built and structured 
 * Autorole Assigning
 * Welcome Messages
 * Leaving Messages
-* Compliance(T&C) Notices
+* Compliance (T&C) Notices
 * Cycled Status Changes
 * Leveling System
 * Experience System
